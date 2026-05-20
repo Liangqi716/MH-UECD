@@ -19,5 +19,3 @@ dataset/
 └── ...
 ```
 Note: The rotary_wing_2 directory contains fewer samples because its compact size limits the viable payload range.
-
-## 📝 Citation
